@@ -14,10 +14,10 @@
 📩 Para preguntas o sugerencias, contáctame en LinkedIn o por email. 📬
 ## 📊 Mis Dashboards  
 
-### 🔹 **Análisis de Ventas | Análisis de Clientes | Desempeño de Productos**  
+### 🔹 **Análisis de Ventas | Análisis Servicio al cliente | Desempeño de Productos**  
 
 <p align="center">
-  <img src="ruta-de-tu-imagen1" width="30%" alt="Dashboard Ventas">
+  <img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-18%20114319.png" width="30%" alt="Dashboard Ventas">
   <img src="ruta-de-tu-imagen2" width="30%" alt="Dashboard Clientes">
   <img src="ruta-de-tu-imagen3" width="30%" alt="Dashboard Productos">
 </p>
