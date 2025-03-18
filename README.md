@@ -14,15 +14,20 @@
 📩 Para preguntas o sugerencias, contáctame en LinkedIn o por email. 📬
 ## 📊 Mis Dashboards  
 
-### 🔹 **Análisis de Ventas | Análisis Servicio al cliente | Desempeño de Productos**  
-
-<p align="center">
-  <img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-18%20114319.png" width="30%" alt="Dashboard Ventas">
-  <img src="ruta-de-tu-imagen2" width="30%" alt="Dashboard Clientes">
-  <img src="ruta-de-tu-imagen3" width="30%" alt="Dashboard Productos">
-</p>
-
-🔗 **Ver Dashboards:**  
-- [📊 Análisis de Ventas](URL-Dashboard1)  
-- [📊 Análisis de Clientes](URL-Dashboard2)  
-- [📊 Desempeño de Productos](URL-Dashboard3)  
+<table>
+  <tr align="center">
+    <th>🔹 Análisis de Venta de videjuegos</th>
+    <th>🔹 Análisis Servicio al Cliente</th>
+    <th>🔹 Desempeño de Productos</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-18%20114319.png" width="90%" alt="Dashboard Ventas"></td>
+    <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/2.png" width="90%" alt="Dashboard Servicio al Cliente"></td>
+    <td><img src="ruta-de-tu-imagen3" width="90%" alt="Dashboard Productos"></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://app.powerbi.com/view?r=eyJrIjoiMTUwOTMxOTQtNDMxZS00NTMyLTlmMWQtZDVhOTNlNDI0YTYwIiwidCI6ImZjMDA1NDdhLTI0YmItNGU0Zi05ZDYxLTczZmNhNWViOWRmMyIsImMiOjR9">📊 Ver Dashboard</a></td>
+    <td><a href="[URL-Dashboard2](https://app.powerbi.com/view?r=eyJrIjoiODEyODBlZmYtYTU1MS00NmExLWE0MzItNmQ4YmE4MTNlNWU4IiwidCI6ImZjMDA1NDdhLTI0YmItNGU0Zi05ZDYxLTczZmNhNWViOWRmMyIsImMiOjR9)">📊 Ver Dashboard</a></td>
+    <td><a href="URL-Dashboard3">📊 Ver Dashboard</a></td>
+  </tr>
+</table>
