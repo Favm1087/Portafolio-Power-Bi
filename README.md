@@ -23,7 +23,7 @@
   <tr align="center">
     <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-18%20114319.png" width="90%" alt="Dashboard Ventas"></td>
     <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/2.png" width="90%" alt="Dashboard Servicio al Cliente"></td>
-    <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-19%20162448.png" width="80%" alt="Dashboard Productos"></td>
+    <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-19%20162448.png" width="80%" alt="Dashboard Presupuesto"></td>
   </tr>
   <tr align="center">
     <td><a href="https://app.powerbi.com/view?r=eyJrIjoiMTUwOTMxOTQtNDMxZS00NTMyLTlmMWQtZDVhOTNlNDI0YTYwIiwidCI6ImZjMDA1NDdhLTI0YmItNGU0Zi05ZDYxLTczZmNhNWViOWRmMyIsImMiOjR9">📊 Ver Dashboard</a></td>
