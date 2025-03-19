@@ -32,23 +32,17 @@
   </tr>
   <tr align="center">
     <th>🔹 Análisis Financiero</th>
-    <th>🔹 Espacio para Dashboard 5</th>
+    <th>🔹 Dashboard 5</th>
+    <th>🔹 Dashboard 6</th>
   </tr>
   <tr align="center">
     <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-19%20163432.png" width="90%" alt="Dashboard 4"></td>
     <td><img src="URL_DE_TU_IMAGEN_5" width="90%" alt="Dashboard 5"></td>
+    <td><img src="URL_DE_TU_IMAGEN_6" width="90%" alt="Dashboard 6"></td>
   </tr>
   <tr align="center">
     <td><a href="https://app.powerbi.com/view?r=eyJrIjoiNzBhNDFjZDMtMmYyMS00YmUxLTk5NTEtMThiNGJmMGJhMTEwIiwidCI6ImZjMDA1NDdhLTI0YmItNGU0Zi05ZDYxLTczZmNhNWViOWRmMyIsImMiOjR9">📊 Ver Dashboard</a></td>
     <td><a href="URL_DEL_DASHBOARD_5">📊 Ver Dashboard</a></td>
-  </tr>
-  <tr align="center">
-    <th colspan="2">🔹 Espacio para Dashboard 6</th>
-  </tr>
-  <tr align="center">
-    <td colspan="2"><img src="URL_DE_TU_IMAGEN_6" width="90%" alt="Dashboard 6"></td>
-  </tr>
-  <tr align="center">
-    <td colspan="2"><a href="URL_DEL_DASHBOARD_6">📊 Ver Dashboard</a></td>
+    <td><a href="URL_DEL_DASHBOARD_6">📊 Ver Dashboard</a></td>
   </tr>
 </table>
