@@ -16,9 +16,9 @@
 
 <table>
   <tr align="center">
-    <th>🔹 Análisis de Venta de videjuegos</th>
+    <th>🔹 Análisis de Venta de Videojuegos</th>
     <th>🔹 Análisis Servicio al Cliente</th>
-    <th>🔹 Desempeño de Productos</th>
+    <th>🔹 Análisis Presupuesto</th>
   </tr>
   <tr align="center">
     <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-18%20114319.png" width="90%" alt="Dashboard Ventas"></td>
@@ -29,5 +29,26 @@
     <td><a href="https://app.powerbi.com/view?r=eyJrIjoiMTUwOTMxOTQtNDMxZS00NTMyLTlmMWQtZDVhOTNlNDI0YTYwIiwidCI6ImZjMDA1NDdhLTI0YmItNGU0Zi05ZDYxLTczZmNhNWViOWRmMyIsImMiOjR9">📊 Ver Dashboard</a></td>
     <td><a href="https://app.powerbi.com/view?r=eyJrIjoiODEyODBlZmYtYTU1MS00NmExLWE0MzItNmQ4YmE4MTNlNWU4IiwidCI6ImZjMDA1NDdhLTI0YmItNGU0Zi05ZDYxLTczZmNhNWViOWRmMyIsImMiOjR9">📊 Ver Dashboard</a></td>
     <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZWE4OGY1NGEtNTEwZC00NTNlLWI5YTktMDFkOTE1NWJkYmE1IiwidCI6ImZjMDA1NDdhLTI0YmItNGU0Zi05ZDYxLTczZmNhNWViOWRmMyIsImMiOjR9">📊 Ver Dashboard</a></td>
+  </tr>
+  <tr align="center">
+    <th>🔹 Análisis Financiero</th>
+    <th>🔹 Espacio para Dashboard 5</th>
+  </tr>
+  <tr align="center">
+    <td><img src="URL_DE_TU_IMAGEN_4" width="90%" alt="Dashboard 4"></td>
+    <td><img src="URL_DE_TU_IMAGEN_5" width="90%" alt="Dashboard 5"></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://app.powerbi.com/view?r=eyJrIjoiNzBhNDFjZDMtMmYyMS00YmUxLTk5NTEtMThiNGJmMGJhMTEwIiwidCI6ImZjMDA1NDdhLTI0YmItNGU0Zi05ZDYxLTczZmNhNWViOWRmMyIsImMiOjR9">📊 Ver Dashboard</a></td>
+    <td><a href="URL_DEL_DASHBOARD_5">📊 Ver Dashboard</a></td>
+  </tr>
+  <tr align="center">
+    <th colspan="2">🔹 Espacio para Dashboard 6</th>
+  </tr>
+  <tr align="center">
+    <td colspan="2"><img src="URL_DE_TU_IMAGEN_6" width="90%" alt="Dashboard 6"></td>
+  </tr>
+  <tr align="center">
+    <td colspan="2"><a href="URL_DEL_DASHBOARD_6">📊 Ver Dashboard</a></td>
   </tr>
 </table>
