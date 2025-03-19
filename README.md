@@ -35,7 +35,7 @@
     <th>🔹 Espacio para Dashboard 5</th>
   </tr>
   <tr align="center">
-    <td><img src="URL_DE_TU_IMAGEN_4" width="90%" alt="Dashboard 4"></td>
+    <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-19%20163432.png" width="90%" alt="Dashboard 4"></td>
     <td><img src="URL_DE_TU_IMAGEN_5" width="90%" alt="Dashboard 5"></td>
   </tr>
   <tr align="center">
