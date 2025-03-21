@@ -11,7 +11,7 @@
 3️⃣ Si tienes problemas para visualizar, usa Google Chrome 🌐 o Edge ⚡ para una mejor experiencia.
 
 
-📩 Para preguntas o sugerencias, contáctame en LinkedIn o por email. 📬
+📩 Para preguntas o sugerencias, contáctame en LinkedIn
 
 <a href="https://www.linkedin.com/in/favm10">
     <img src="https://raw.githubusercontent.com/Favm1087/Portafolio-Power-Bi/main/linkedin.jpg" width="40">
