@@ -21,7 +21,7 @@
     <th>🔹 Análisis Presupuesto</th>
   </tr>
   <tr align="center">
-    <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-18%20114319.png?raw=true"></td>
+    <td><img src="https://raw.githubusercontent.com/Favm1087/Portafolio-Power-Bi/main/Captura%20de%20pantalla%202025-03-18%20114319.png"></td>
     <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/2.png" width="90%" alt="Dashboard Servicio al Cliente"></td>
     <td><img src="https://github.com/Favm1087/Portafolio-Power-Bi/blob/main/Captura%20de%20pantalla%202025-03-19%20162448.png" width="80%" alt="Dashboard Presupuesto"></td>
   </tr>
