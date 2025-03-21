@@ -2,6 +2,8 @@
 
 ¡Hola! Soy fernando varilla , estadistico y especialista en ciencia de datos y analitica  en formacion . En este repositorio encontrarás algunos de mis dashboards realizados en Power BI, donde exploro distintos análisis y visualizaciones interactivas.  
 
+*📝 Nota: Estos dashboards fueron realizados con datos abiertos públicos, datos simulados. Declaro que no se ha utilizado información sensible o privada sin autorización.*
+
 ## 📌 Instrucciones para visualizar los Dashboards  
 
 1️⃣ No necesitas cuenta ni instalar nada 🖥️✨, solo haz clic en el enlace debajo del dashboard que más te llame la atención 👀 para abrirlo en línea 
