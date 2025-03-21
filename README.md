@@ -12,6 +12,10 @@
 
 
 📩 Para preguntas o sugerencias, contáctame en LinkedIn o por email. 📬
+www.linkedin.com/in/favm10
+
+fernando19971705@gmail.com
+
 ## 📊 Mis Dashboards  
 
 <table>
