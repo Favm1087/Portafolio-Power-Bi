@@ -12,9 +12,12 @@
 
 
 📩 Para preguntas o sugerencias, contáctame en LinkedIn o por email. 📬
-www.linkedin.com/in/favm10
 
-fernando19971705@gmail.com
+<a href="https://www.linkedin.com/in/favm10">
+    <img src="https://raw.githubusercontent.com/Favm1087/Portafolio-Power-Bi/main/linkedin.jpg" width="40">
+</a>
+<a href="https://www.linkedin.com/in/favm10"></a>
+
 
 ## 📊 Mis Dashboards  
 
